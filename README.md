@@ -62,29 +62,6 @@ This repository serves as a personal and professional knowledge base for organiz
 * Fine-Tuning
 * AI Agents
 
-### Natural Language Processing
-
-* Text Processing
-* Tokenization
-* Transformers
-* Sentiment Analysis
-* Named Entity Recognition
-
-### Computer Vision
-
-* OpenCV
-* Image Processing
-* Object Detection
-* Image Classification
-
-### Software Engineering
-
-* System Design
-* REST APIs
-* Design Patterns
-* Testing
-* Deployment
-
 ## Repository Structure
 
 /docs
